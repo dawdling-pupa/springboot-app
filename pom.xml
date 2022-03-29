@@ -44,7 +44,7 @@
 		</plugins>
 	</build>
 	
-		<deploy>
+	<deploy>
         <plugins>
                 <plugin>
                     <groupId>org.apache.tomcat.maven</groupId>
