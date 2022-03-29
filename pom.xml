@@ -48,7 +48,7 @@
                     <configuration>
                         <url>http://localhost:8080/manager/text</url>
                         <server>TomcatServer</server>
-			    <username>tomcat</username>
+			    <username>admin</username>
 			    <password>Jenkins</password> 
                         <path>/yourappcontextpath</path>
                     </configuration>
